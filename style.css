@@ -1,4 +1,14 @@
 .bg-legend{
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin-bottom: 0.5rem;
+    font-size: 18px;
+    line-height: inherit;
+    color: inherit;
+    white-space: normal;
+    padding: 0px 6px;
     background-color: #418bca;
 }
 /* Chrome, Safari, Edge, Opera */
